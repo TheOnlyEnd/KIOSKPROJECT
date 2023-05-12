@@ -50,6 +50,7 @@ h2 {
 
 .heading_container h2 {
   position: relative;
+  margin-top: 50px;
   margin-bottom: 0;
   font-size: 2.5rem;
   font-weight: bold;
@@ -238,7 +239,7 @@ a:focus {
 
 .user_option .order_online {
   display: inline-block;
-  padding: 8px 50px;
+  padding: 8px 30px;
   background-color: #ffbe33;
   color: #ffffff;
   border-radius: 45px;
