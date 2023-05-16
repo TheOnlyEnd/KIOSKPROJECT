@@ -140,7 +140,7 @@ a:focus {
 }
 
 .header_section {
-  padding: 15px 0;
+  padding: 20px 0;
 }
 
 .header_section .container-fluid {
@@ -154,7 +154,7 @@ a:focus {
 
 .navbar-brand span {
   font-weight: bold;
-  font-size: 32px;
+  font-size: 50px;
   color: #ffffff;
 }
 
@@ -171,7 +171,7 @@ a:focus {
   color: #ffffff;
   text-align: center;
   text-transform: uppercase;
-  border-radius: 5px;
+  border-radius: 50px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
